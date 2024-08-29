@@ -8,7 +8,6 @@ Actualmente estoy estudiando en la Universidad Tecnológica de Puebla, cursando 
 
 * 🌍  I'm based in Heroica Puebla de Zaragoza
 * ✉️  Puedes contactarme en [lcanobarrera@icloud.com](mailto:lcanobarrera@icloud.com)
-* 🧠  I'm learning PHP, C#, Android Studio,
 
 ### Skills
 
