@@ -6,7 +6,6 @@ Jr. Front-End Developer
 
 Actualmente estoy estudiando en la Universidad Tecnológica de Puebla, cursando la Ingeniería en Gestión y Desarrollo de Software y estoy a punto de egresar.
 
-* 🌍  I'm based in Heroica Puebla de Zaragoza
 * ✉️  Puedes contactarme en [lcanobarrera@icloud.com](mailto:lcanobarrera@icloud.com)
 
 ### Skills
