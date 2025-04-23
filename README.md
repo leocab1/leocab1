@@ -5,7 +5,7 @@ Hola Mi Nombre Es Leonardo Fabio Cano Barrera
 Jr. Front-End Developer
 -----------------------
 
-Actualmente estoy estudiando en la Universidad Tecnológica de Puebla, cursando la Ingeniería en Gestión y Desarrollo de Software y estoy a punto de egresar.
+Recientemente egresado de la Ingeniería en Gestión y Desarrollo de Software en la Universidad Tecnológica de Puebla.
 
 * ✉️  Puedes contactarme en [lcanobarrera@icloud.com](mailto:lcanobarrera@icloud.com)
 
