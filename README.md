@@ -1,4 +1,4 @@
-# ![Mi Imagen](https://github.com/luis-gustavoj/luis-gustavoj/blob/main/images/computer.gif)
+#
 Hola Mi Nombre Es Leonardo Fabio Cano Barrera
 ===================================================================================================================================================
 
