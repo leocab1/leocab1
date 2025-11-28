@@ -7,7 +7,7 @@ Jr. Front-End Developer
 
 Egresado de la carrera de Ingeniería en Desarrollo y Gestión de Software por la Universidad Tecnológica de Puebla.
 
-* ✉️  Puedes contactarme en [lcanobarrera@icloud.com](mailto:lcanobarrera@icloud.com)
+* ✉️  Puedes contactarme en [lcanobarrera@icloud.com](mailto:canobarreraleonardo@gmail.com)
 
 ### Skills
 
